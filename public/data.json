@@ -1,0 +1,137 @@
+{
+  "categories": [
+    { "name": "Все" },
+    { "name": "Море" },
+    { "name": "Горы" },
+    { "name": "Архитектура" },
+    { "name": "Города" }
+  ],
+  "collections": [
+    {
+      "category": 2,
+      "name": "MacBook Air: Apple M2",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F266269_1%202022-11-04_11-21-39.531326%20b3a8bea326de3333d2ad3d1e.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F266269_2%202022-11-04_11-21-39.532081%201145546677e147fbed713911.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F266269_3%202022-11-04_11-21-39.529717%203e5d6fd6e2f0412b639adb9e.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F266269_6%202022-11-04_11-21-39.527219%2048e81c4f70d8ceffc404450a.jpg&w=1920&q=75"
+      ]
+    },
+
+    {
+      "category": 4,
+      "name": "Подставка для ноутбука CROWN CMLS-401 черный",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h46/hcc/50547079905310/crown-cmls-401-cernyj-101900347-1-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha1/h5b/50547080101918/crown-cmls-401-cernyj-101900347-2-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h53/hbb/50547080298526/crown-cmls-401-cernyj-101900347-3-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb5/h76/50547080691742/crown-cmls-401-cernyj-101900347-5-Container.jpg"
+      ]
+    },
+
+    {
+      "category": 3,
+      "name": "Монитор BenQ ZOWIE XL2411K черный",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb7/h4c/34374199869470/benq-zowie-xl2411k-cernyj-101306445-1-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/he9/h8a/34374203932702/benq-zowie-xl2411k-cernyj-101306445-2-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h19/hdc/34374213697566/benq-zowie-xl2411k-cernyj-101306445-4-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h3d/h96/34374217760798/benq-zowie-xl2411k-cernyj-101306445-5-Container.jpg"
+      ]
+    },
+
+    {
+      "category": 2,
+      "name": "Asus P1512CEA-BQ0164",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2Fcefb2c49525cb46dc54666592bbfcfb3%202022-10-07_08-42-57.366990%2016eeb6714f468f8ba85d0a79.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F145e401cb89b103cc8f2be4a9cbb423d%202022-10-07_08-42-57.368525%2082b0d48ce2fc9ca35b31e855.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2Fd42b91796e7563b7498b253b34ac443e%202022-10-07_08-42-57.369050%2075f54816e3c59b2e9ef64570.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2Fd8bddcb39071c76c8fa6473fbe917545%202022-10-07_08-42-57.369472%20ded5051393c8f8c69b041c4e.jpg&w=1920&q=75"
+      ]
+    },
+
+    {
+      "category": 3,
+      "name": "CYBER MARKET Pro Gaming 15",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hdd/h63/51405009453086/cyber-market-pro-gaming-15-chernyi-102927848-1.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha7/h37/47274202202142/cyber-market-pro-gaming-15-chernyi-102927848-2.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc9/h7e/51405009682462/cyber-market-pro-gaming-15-chernyi-102927848-3.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hdd/h63/51405009453086/cyber-market-pro-gaming-15-chernyi-102927848-1.jpg"
+      ]
+    },
+
+    {
+      "category": 3,
+      "name": "Монитор VIEWG U240 черный",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h0d/h2d/67824449421342/viewg-u240-chernyi-108089090-1.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h42/h36/67824450175006/viewg-u240-chernyi-108089090-3.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h3c/h62/67824451223582/viewg-u240-chernyi-108089090-5.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h31/h29/67824450699294/viewg-u240-chernyi-108089090-4.jpg"
+      ]
+    },
+
+    {
+      "category": 1,
+      "name": "Смартфон Samsung Galaxy S22",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F257402_10v%202022-12-12_17-24-52.405780%20a3a6ee3488236de266b768c7.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F257402_11v%202022-12-12_17-24-57.167107%20b31ce59db81a3597bb92e73b.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F257402_3v%202022-12-12_17-23-59.030556%20fe7d036d06bb21e3e8aad09d.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F257402_5v%202022-12-12_17-25-23.867837%202f359772b78a73d274b5b4ff.jpg&w=1920&q=75"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Наушники HyperX Cloud Stinger HX-HSCS-BK/EE",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h88/h69/31714888253470/hyperx-cloud-stinger-hx-hscs-bk-ee-black-red-4803637-1-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h6b/h5d/31714902245406/hyperx-cloud-stinger-hx-hscs-bk-ee-black-red-4803637-2-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb7/ha8/31714915844126/hyperx-cloud-stinger-hx-hscs-bk-ee-black-red-4803637-3-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h50/hdd/31714930294814/hyperx-cloud-stinger-hx-hscs-bk-ee-black-red-4803637-4-Container.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Мышь X-Game XM-770OUB черный",
+      "photos": [
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h13/h11/50458052591646/x-game-xm-770oub-black-9101354-1-Container.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h00/hd3/50458052821022/x-game-xm-770oub-cernyj-9101354-2.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc6/h52/49870295564318/x-game-xm-770oub-cernyj-9101354-3.jpg",
+        "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h13/h11/50458052591646/x-game-xm-770oub-black-9101354-1-Container.jpg"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Смартфон Apple iPhone 14",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F265303_1%202022-09-26_11-03-04.934250%20b8c60ed49608d097a48a7d3e.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F265303_1%202022-09-26_11-03-04.934250%20b8c60ed49608d097a48a7d3e.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F265303_2%202022-09-26_11-03-04.935465%20a99475df476adba85e3fa499.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F265303_4%202022-09-26_11-03-04.936279%2048e124726e79ae3d0672a7b0.jpg&w=1920&q=75"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Ноутбук Asus ProArt Studiobook",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2Ff3373f1011c9a91de7f9b57d76ba1ce6%202022-10-10_06-32-55.995771%2088cd9afafe1a8ad301096e47.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F60c6795715825d7886be36df27300fa4%202022-10-10_06-33-40.101669%2040e8585b60d7d617d6b5ca3e.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F6fa733aa4931b1433fa08c3dcd75470f%202022-10-10_06-33-02.703585%208ca4f1341263bcddd7942e3f.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2Ff3373f1011c9a91de7f9b57d76ba1ce6%202022-10-10_06-32-55.995771%2088cd9afafe1a8ad301096e47.jpg&w=1920&q=75"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Смартфон Motorola Razr 2022",
+      "photos": [
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F37271607896338%202022-12-27_10-47-39.326250%20d462b820938ff6dc6b383349.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F14459326461408_(1)%202022-12-27_10-47-39.329090%20164df6430bdb4b7166009352.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F24585352567960%202022-12-27_10-47-39.326886%20c0d44c0b485b8cc6a8d0586b.jpg&w=1920&q=75",
+        "https://fmobile.kz/_next/image?url=https%3A%2F%2Fapi.fmobile.kz%2Fimage%2Fmedia%2Fsale%2Fimage%2F16161508920974_(1)%202022-12-27_10-47-39.328163%209c39d1b744b4602ee012b149.jpg&w=1920&q=75"
+      ]
+    }
+  ]
+}
